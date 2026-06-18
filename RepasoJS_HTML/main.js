@@ -4,7 +4,7 @@ const buttonRef = document.getElementById("button");
 
 const number = Math.floor(Math.random()*100);
 
-buttonRef.addEventListener("click", function updateValue(){
+buttonRef.addEventListener("click", () => {
     //Este valor es un string
     const userNumber = inputRef.value; 
     if(number < userNumber)
