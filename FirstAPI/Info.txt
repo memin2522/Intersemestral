@@ -1,0 +1,9 @@
+Node
+Node Package Manager -> NPM
+1. Inicializar el proyecto en Node
+    a.En la terminal me paro en la carpeta del proyecto
+    b.npm init / npm init -y
+2. Instalar las librerias
+    a. Express -> Herramienta para crear API's
+    b. npm install express
+3. Jugar
